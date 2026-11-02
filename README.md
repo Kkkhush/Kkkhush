@@ -23,5 +23,3 @@ I enjoy turning ideas into reality with code and am always eager to take on new 
 
 ---
 
-## Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kkkhush&theme=default)
